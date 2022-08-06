@@ -1,0 +1,26 @@
+:root {
+    --background-color: rgb(40, 44, 52);
+    --color: rgb(234, 235, 237);
+    --aside-color: rgb(32, 35, 42);
+    --button-color: #009FFD;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: var(--background-color);
+    color: var(--color);
+    font-family: 'Inter', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+}
+
+.root {
+    display: flex;
+    flex-direction: row;
+}
