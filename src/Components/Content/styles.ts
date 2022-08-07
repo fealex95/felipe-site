@@ -19,7 +19,7 @@ export const Container = styled.div`
         h1{
             font-family: 'Open Sans';
             font-weight: 100;
-            
+            margin-bottom: 1rem;
         }
 
         p{
@@ -49,14 +49,14 @@ export const Container = styled.div`
         align-items: center;
         h1{
             font-weight: 100;
-            margin-top: 1rem;
+            margin-top: 1.5rem;
             font-size: 1.5rem;
         }
 
         div{
-            margin-top: 10px;
+            
             img{
-                width: 50px;
+                width: 40px;
                 margin: 10px;
             }
         }

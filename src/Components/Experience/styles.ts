@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const Container = styled.div` 
-    margin: 30px 30px;
+    margin: 20px 20px;
 
     .name{
         font-size: 1.2rem;
