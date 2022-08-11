@@ -75,7 +75,7 @@ export function Content() {
                     }
                 </div>
                 <div className='tecnologies'>
-                    <h1>Técnologias</h1>
+                    <h1>Tecnologias</h1>
                     <div>
                         <img src='https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg' />
                         <img src='https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg' />
